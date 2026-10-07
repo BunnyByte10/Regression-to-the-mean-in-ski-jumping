@@ -112,6 +112,16 @@ The interactive graph shows the relationship between first-round and second-roun
 
 The regression line is shown together with the diagonal `y = x` for comparison.
 
+## Technologies
+
+* Python
+* Pandas
+* NumPy
+* SciPy
+* Matplotlib
+* Plotly
+* GitHub Pages
+
 ## References
 
 Kahneman, D. (2011). *Thinking, Fast and Slow*. Chapter 17: "Regression to the Mean".
