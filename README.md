@@ -102,7 +102,7 @@ Finally, the analysis shows a statistical pattern consistent with regression to 
 
 ## Files
 
-* `season_2025_26.csv` — dataset
+* `season_2025_26.csv` — dataset (Raw data omitted; sourced from official FIS results.)
 * `regression.py` — data preparation, regression analysis and visualization
 * `index.html` — interactive version of the plot
 
