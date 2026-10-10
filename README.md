@@ -108,7 +108,7 @@ Finally, the analysis shows a statistical pattern consistent with regression to 
 
 ### Visualization
 
-The [interactive graph]() shows the relationship between first-round and second-round deviations from a jumper's average. The regression line is shown together with the diagonal `y = x` for comparison.
+The [interactive graph](https://bunnybyte10.github.io/Regression-to-the-mean-in-ski-jumping/) shows the relationship between first-round and second-round deviations from a jumper's average. The regression line is shown together with the diagonal `y = x` for comparison.
 
 ## Technologies
 
