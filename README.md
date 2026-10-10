@@ -106,11 +106,9 @@ Finally, the analysis shows a statistical pattern consistent with regression to 
 * `regression.py` — data preparation, regression analysis and visualization
 * `index.html` — interactive version of the plot
 
-## Visualization
+### Visualization
 
-The interactive graph shows the relationship between first-round and second-round deviations from a jumper's average.
-
-The regression line is shown together with the diagonal `y = x` for comparison.
+The [interactive graph]() shows the relationship between first-round and second-round deviations from a jumper's average. The regression line is shown together with the diagonal `y = x` for comparison.
 
 ## Technologies
 
